@@ -71,6 +71,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -81,4 +82,8 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
