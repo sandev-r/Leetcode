@@ -92,4 +92,8 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/sandev-r/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
