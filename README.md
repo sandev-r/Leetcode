@@ -123,4 +123,12 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
