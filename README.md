@@ -72,6 +72,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [2235-add-two-integers](https://github.com/sandev-r/Leetcode/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
