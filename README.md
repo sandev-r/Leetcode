@@ -133,6 +133,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sandev-r/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sandev-r/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandev-r/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -140,5 +141,6 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sandev-r/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
