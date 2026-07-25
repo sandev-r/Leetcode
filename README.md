@@ -125,6 +125,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandev-r/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
@@ -146,4 +147,8 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0021-merge-two-sorted-lists](https://github.com/sandev-r/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sandev-r/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
