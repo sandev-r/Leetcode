@@ -87,6 +87,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0142-linked-list-cycle-ii](https://github.com/sandev-r/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandev-r/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
@@ -153,5 +155,6 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
