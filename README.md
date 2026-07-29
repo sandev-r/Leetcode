@@ -123,11 +123,13 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandev-r/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sandev-r/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandev-r/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0771-jewels-and-stones](https://github.com/sandev-r/Leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandev-r/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/sandev-r/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
