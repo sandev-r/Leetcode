@@ -80,6 +80,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +177,12 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
