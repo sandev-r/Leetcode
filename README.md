@@ -187,4 +187,16 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
