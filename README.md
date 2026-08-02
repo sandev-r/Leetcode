@@ -168,6 +168,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
@@ -190,10 +191,12 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
