@@ -80,6 +80,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -148,6 +149,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
+| [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Linked List
 |  |
 | ------- |
