@@ -74,6 +74,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
+| [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0142-linked-list-cycle-ii](https://github.com/sandev-r/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/sandev-r/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -195,11 +197,13 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sandev-r/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
