@@ -79,6 +79,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -218,6 +219,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandev-r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
