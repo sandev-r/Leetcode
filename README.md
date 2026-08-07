@@ -74,6 +74,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sandev-r/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandev-r/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +101,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
