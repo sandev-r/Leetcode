@@ -76,6 +76,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
+| [0605-can-place-flowers](https://github.com/sandev-r/Leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
@@ -112,6 +113,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/sandev-r/Leetcode/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
