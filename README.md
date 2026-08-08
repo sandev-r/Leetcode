@@ -118,6 +118,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0013-roman-to-integer](https://github.com/sandev-r/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/sandev-r/Leetcode/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -145,6 +146,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0013-roman-to-integer](https://github.com/sandev-r/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sandev-r/Leetcode/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/sandev-r/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -228,4 +230,12 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandev-r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
