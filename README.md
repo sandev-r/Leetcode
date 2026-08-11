@@ -103,6 +103,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0345-reverse-vowels-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sandev-r/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/sandev-r/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1436-destination-city](https://github.com/sandev-r/Leetcode/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/sandev-r/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
