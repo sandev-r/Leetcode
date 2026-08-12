@@ -77,6 +77,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sandev-r/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sandev-r/Leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/sandev-r/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +120,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sandev-r/Leetcode/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
@@ -255,4 +257,8 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandev-r/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
