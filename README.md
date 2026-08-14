@@ -91,6 +91,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandev-r/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sandev-r/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -273,6 +274,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandev-r/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/sandev-r/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
