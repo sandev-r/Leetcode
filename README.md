@@ -291,6 +291,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sandev-r/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -298,6 +299,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sandev-r/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -305,11 +307,13 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sandev-r/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sandev-r/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
