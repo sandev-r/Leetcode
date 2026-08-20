@@ -75,6 +75,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sandev-r/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -235,6 +236,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
@@ -305,6 +307,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sandev-r/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandev-r/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -320,11 +323,13 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0100-same-tree](https://github.com/sandev-r/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sandev-r/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandev-r/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sandev-r/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandev-r/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
