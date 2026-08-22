@@ -73,6 +73,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/sandev-r/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sandev-r/Leetcode/tree/master/0200-number-of-islands) |
@@ -136,6 +137,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sandev-r/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/sandev-r/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sandev-r/Leetcode/tree/master/0605-can-place-flowers) |
@@ -295,6 +297,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sandev-r/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/sandev-r/Leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandev-r/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
