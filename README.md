@@ -308,6 +308,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandev-r/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -329,6 +330,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandev-r/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -349,4 +351,8 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sandev-r/Leetcode/tree/master/0455-assign-cookies) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
