@@ -310,6 +310,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandev-r/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0547-number-of-provinces](https://github.com/sandev-r/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sandev-r/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandev-r/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -332,6 +334,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0145-binary-tree-postorder-traversal](https://github.com/sandev-r/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandev-r/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/sandev-r/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
