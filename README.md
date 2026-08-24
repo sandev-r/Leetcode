@@ -86,6 +86,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0643-maximum-average-subarray-i](https://github.com/sandev-r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sandev-r/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sandev-r/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -292,6 +293,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandev-r/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/sandev-r/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sandev-r/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
