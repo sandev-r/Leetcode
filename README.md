@@ -98,6 +98,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sandev-r/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -174,6 +175,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1436-destination-city](https://github.com/sandev-r/Leetcode/tree/master/1436-destination-city) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sandev-r/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sandev-r/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
