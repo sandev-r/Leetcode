@@ -196,6 +196,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1768-merge-strings-alternately](https://github.com/sandev-r/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 ## Simulation
@@ -203,6 +204,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Linked List
@@ -233,6 +235,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0232-implement-queue-using-stacks](https://github.com/sandev-r/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/sandev-r/Leetcode/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
