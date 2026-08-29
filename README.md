@@ -103,6 +103,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
