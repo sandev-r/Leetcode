@@ -95,6 +95,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandev-r/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/sandev-r/Leetcode/tree/master/1436-destination-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandev-r/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sandev-r/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -157,6 +158,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sandev-r/Leetcode/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Enumeration
@@ -177,6 +179,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0771-jewels-and-stones](https://github.com/sandev-r/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/sandev-r/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/sandev-r/Leetcode/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sandev-r/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sandev-r/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -250,6 +253,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sandev-r/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Graph Theory
