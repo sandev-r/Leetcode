@@ -102,6 +102,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sandev-r/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/sandev-r/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -204,6 +205,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [2000-reverse-prefix-of-word](https://github.com/sandev-r/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/sandev-r/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/sandev-r/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sandev-r/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 | [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
