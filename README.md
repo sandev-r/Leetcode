@@ -161,6 +161,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sandev-r/Leetcode/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sandev-r/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sandev-r/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Enumeration
 |  |
