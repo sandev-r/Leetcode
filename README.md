@@ -100,6 +100,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandev-r/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sandev-r/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandev-r/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sandev-r/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sandev-r/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/sandev-r/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -134,6 +135,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sandev-r/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sandev-r/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sandev-r/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -297,6 +299,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/sandev-r/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sandev-r/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
