@@ -158,6 +158,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0013-roman-to-integer](https://github.com/sandev-r/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -294,6 +295,7 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandev-r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
@@ -392,4 +394,8 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandev-r/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
