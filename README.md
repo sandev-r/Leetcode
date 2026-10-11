@@ -72,6 +72,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandev-r/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/sandev-r/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
@@ -294,6 +295,7 @@ If you find this repository useful, feel free to leave a ⭐.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
