@@ -160,6 +160,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0013-roman-to-integer](https://github.com/sandev-r/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sandev-r/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/sandev-r/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
