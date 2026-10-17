@@ -162,6 +162,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sandev-r/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sandev-r/Leetcode/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/sandev-r/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sandev-r/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandev-r/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/sandev-r/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -300,6 +301,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0035-search-insert-position](https://github.com/sandev-r/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sandev-r/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/sandev-r/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandev-r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sandev-r/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
