@@ -93,6 +93,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandev-r/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sandev-r/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sandev-r/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandev-r/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/sandev-r/Leetcode/tree/master/1436-destination-city) |
@@ -308,6 +309,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandev-r/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sandev-r/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandev-r/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sandev-r/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
@@ -315,6 +317,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | ------- |
 | [0278-first-bad-version](https://github.com/sandev-r/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandev-r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -409,4 +412,5 @@ If you find this repository useful, feel free to leave a ⭐.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/sandev-r/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
