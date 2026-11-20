@@ -112,6 +112,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sandev-r/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/sandev-r/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ If you find this repository useful, feel free to leave a ⭐.
 | [3174-clear-digits](https://github.com/sandev-r/Leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/sandev-r/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/sandev-r/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/sandev-r/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
